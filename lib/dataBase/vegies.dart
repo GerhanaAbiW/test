@@ -1,8 +1,8 @@
-class Vegies {
-  int id;
-  String name;
+// class Vegies {
+//   int id;
+//   String name;
   
-  Vegies({this.id, this.name});
+//   Vegies({this.id, this.name});
 
-  //factory Gejala.fromJson
-}
+//   //factory Gejala.fromJson
+// }

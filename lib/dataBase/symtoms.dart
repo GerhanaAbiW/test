@@ -1,8 +1,8 @@
-class Symptoms {
-  int id;
-  String name;
+// class Symptoms {
+//   int id;
+//   String name;
   
-  Symptoms({this.id, this.name});
+//   Symptoms({this.id, this.name});
 
-  //factory Gejala.fromJson
-}
+//   //factory Gejala.fromJson
+// }
